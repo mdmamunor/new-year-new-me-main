@@ -75,3 +75,29 @@ ul li:before {
 .plan-item {
     padding-left: 122px;
 }
+
+
+.contact {
+    margin-bottom: 200px;
+    margin-left: 200px;
+    height: 300px;
+    width: 900px;
+    background-image: url(images/watch.png);
+    background-image: linear-gradient(rgba(25, 0, 255, 0.445), rgba(0, 60, 255, 0));
+}
+
+.contact-title {
+    padding-top: 100px;
+}
+
+/* footer part */
+.footer {
+    background-color: rgb(187, 13, 13);
+    display: flex;
+
+}
+
+.footer-left {
+    margin-left: 200px;
+    margin-right: 200px;
+}
