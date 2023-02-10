@@ -53,3 +53,25 @@ ul li:before {
 
     content: '✓';
 }
+
+
+/* my plan section styles */
+.myplan-title {
+    text-align: center;
+    font-size: 44px;
+}
+
+#plan-title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.plan-items {
+    display: flex;
+    margin-bottom: 200px;
+
+}
+
+.plan-item {
+    padding-left: 122px;
+}
