@@ -8,6 +8,7 @@
 
 .banner {
     display: flex;
+    margin-bottom: 200px;
 
 }
 
@@ -15,8 +16,40 @@
     width: 50%;
 }
 
-.banner-title {
+.banner-container {
     text-align: right;
     margin: 200px 100px 88px 30px;
 
+}
+
+.banner-title {
+    font-size: 75px;
+}
+
+
+.main-title {
+    text-align: left;
+    font-size: 50px;
+    margin-top: 200px;
+    margin-left: 55px;
+}
+
+
+
+
+.main-paragraph {
+    text-align: left;
+    margin: 20px 200px 10px 55px;
+
+
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+}
+
+ul li:before {
+
+    content: '✓';
 }
