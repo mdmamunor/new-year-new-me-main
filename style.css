@@ -1,0 +1,22 @@
+#btn-primary {
+    font-size: 20px;
+    background-color: brown;
+    border: 15px 14px;
+    border-radius: 10px;
+    padding: 10px 18px;
+}
+
+.banner {
+    display: flex;
+
+}
+
+.image-banner {
+    width: 50%;
+}
+
+.banner-title {
+    text-align: right;
+    margin: 200px 100px 88px 30px;
+
+}
